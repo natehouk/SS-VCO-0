@@ -319,7 +319,7 @@ U 1 1 5F6BE4FC
 P 6800 1300
 F 0 "RV6" H 6731 1346 50  0000 R CNN
 F 1 "R_Potentiometer_Trim" H 6731 1255 50  0000 R CNN
-F 2 "" H 6800 1300 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_ACP_CA9-V10_Vertical" H 6800 1300 50  0001 C CNN
 F 3 "~" H 6800 1300 50  0001 C CNN
 	1    6800 1300
 	-1   0    0    1   
@@ -425,4 +425,5 @@ U 5F75BB76
 F0 "AS3320 VCF" 50
 F1 "AS3320.sch" 50
 $EndSheet
+NoConn ~ -3300 -950
 $EndSCHEMATC
